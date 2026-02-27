@@ -16,6 +16,7 @@ SkillMatch is an AI-powered Resume Matcher and Skill Recommender that analyzes r
 -Simple and interactive interface using Streamlit
 
 
+
 🛠️ Technologies Used
 
 -Python
@@ -30,9 +31,11 @@ SkillMatch is an AI-powered Resume Matcher and Skill Recommender that analyzes r
 
 -SQLite (optional database support)
 
+
 📂 Project Structure
 
 SkillMatch/
+
 │── app.py
 
 │── resume.txt
@@ -56,6 +59,7 @@ SkillMatch/
 4.Similarity score is calculated using vectorization techniques.
 
 5.Missing skills are identified and recommended.
+
 
 
 🎯 Future Improvements
