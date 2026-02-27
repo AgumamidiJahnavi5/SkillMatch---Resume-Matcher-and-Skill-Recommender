@@ -1,0 +1,13 @@
+Name: Jahnavi
+
+Professional Summary:
+I am a data science student with strong knowledge of Python and data analysis. 
+I have experience working with machine learning algorithms and natural language processing techniques.
+
+Skills:
+Python, Machine Learning, Data Analysis, NLP, SQL, NumPy, Pandas, scikit-learn, Git
+
+Experience:
+Worked on data preprocessing, feature extraction, and model building.
+Implemented text processing techniques such as tokenization, stop word removal, and TF-IDF.
+Used cosine similarity for comparing resume and job description text.

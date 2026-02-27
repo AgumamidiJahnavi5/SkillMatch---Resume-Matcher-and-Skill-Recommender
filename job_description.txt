@@ -1,0 +1,14 @@
+Job Title: Junior Data Scientist
+
+Job Description:
+We are looking for a junior data scientist with good knowledge of Python and data analysis.
+The candidate should have experience in machine learning and natural language processing.
+
+Required Skills:
+Python, Machine Learning, Data Analysis, NLP, SQL, scikit-learn, Git
+
+Responsibilities:
+Perform data preprocessing and analysis.
+Build machine learning models.
+Apply NLP techniques on text data.
+Use TF-IDF and cosine similarity for text comparison.
