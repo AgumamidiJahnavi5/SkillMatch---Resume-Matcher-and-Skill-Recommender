@@ -30,9 +30,13 @@ SkillMatch is an AI-powered Resume Matcher and Skill Recommender that analyzes r
 
 SkillMatch/
 │── app.py
+
 │── resume.txt
+
 │── job_description.txt
+
 │── requirements.txt
+
 │── README.md
 
 ---
